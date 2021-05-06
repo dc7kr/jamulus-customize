@@ -1,0 +1,5 @@
+MOUNTPOINT=/mnt/tmp 
+IMAGE=/srv/build/2021-03-13-Jambox_pi-gen.img
+JAMULUS_SERVER=my.jamulus.server
+JAMULUS_AUTOSTART=1
+JAMULUS_TIMEOUT=240m
