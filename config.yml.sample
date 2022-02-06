@@ -1,0 +1,10 @@
+general:
+  timezone: "Europe/Berlin"
+jamulus:
+  server: my.server.name
+  autostart: 1
+  timeout: 241m
+image: 
+  path: /srv/build/2021-11-20-Jambox_pi-gen.img
+  mountpoint: /mnt/tmp
+
